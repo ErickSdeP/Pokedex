@@ -38,7 +38,7 @@ body {
     color: #f7f9fc;
     max-height: 8.5rem;
 }
-.pokemonAzul {
+.pokemonBlue {
     display: flex;
     flex-direction: column;
     margin: .5rem;
