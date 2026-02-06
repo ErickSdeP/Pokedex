@@ -117,7 +117,7 @@ body {
 .nome {
     margin-bottom: 0;
 }
-@media screen and (min-width: 380px) {
+@media screen and (min-width: 394px) {
     .pokemons{
     grid-template-columns: 1fr 1fr;
     }

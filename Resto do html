@@ -1,25 +1,102 @@
-            <li>
-                Ivysaur
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/2.svg"
-                    alt="Ivysaur">
+            <li class="pokemonVerde">
+                <span class="numero">#002</span>
+                <span class="nome">Ivysaur</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposV">Grama</li>
+                        <li class="tiposV">Venenoso</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/002.png"
+                        alt="Ivysaur">
+                </div>
             </li>
-            <li>
-                Venusaur
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/3.svg"
-                    alt="Venusaur">
+            <li class="pokemonVerde">
+                <span class="numero">#003</span>
+                <span class="nome">Venusaur</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposV">Grama</li>
+                        <li class="tiposV">Venenoso</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/003.png"
+                        alt="Venusaur">
+                </div>
             </li>
-            <li>
-                Charmander
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/4.svg"
-                    alt="Charmander">
+            <li class="pokemonRed">
+                <span class="numero">#004</span>
+                <span class="nome">Charmander</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposR">Fogo</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/004.png"
+                        alt="Charmander">
+                </div>
             </li>
-            <li>
-                Charmeleon
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/5.svg"
-                    alt="Charmeleon">
+            <li class="pokemonRed">
+                <span class="numero">#005</span>
+                <span class="nome">Charmeleon</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposR">Fogo</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/005.png"
+                        alt="Charmeleon">
+                </div>
             </li>
-            <li>
-                Charizard
-                <img src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/dream-world/6.svg"
-                    alt="Charizard">
+            <li class="pokemonRed">
+                <span class="numero">#006</span>
+                <span class="nome">Charizard</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposR">Fogo</li>
+                        <li class="tiposR">Voador</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/006.png"
+                        alt="Charizard">
+                </div>
+            </li>
+            <li class="pokemonBlue">
+                <span class="numero">#007</span>
+                <span class="nome">Squirtle</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposB">Água</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/007.png"
+                        alt="Squirtle">
+                </div>
+            </li>
+            <li class="pokemonBlue">
+                <span class="numero">#008</span>
+                <span class="nome">Wartortle</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposB">Água</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/008.png"
+                        alt="Wartortle">
+                </div>
+            </li>
+            <li class="pokemonBlue">
+                <span class="numero">#009</span>
+                <span class="nome">Blastoise</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposB">Água</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/009.png"
+                        alt="Blastoise">
+                </div>
+            </li>
+            <li class="pokemonAmarelo">
+                <span class="numero">#025</span>
+                <span class="nome">Pikachu</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposA">Elétrico</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/025.png"
+                        alt="Pikachu">
+                </div>
             </li>
