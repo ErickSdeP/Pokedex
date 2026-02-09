@@ -1,4 +1,16 @@
             <li class="pokemonVerde">
+                <span class="numero">#001</span>
+                <span class="nome">Bulbasaur</span>
+                <div class="detalhes">
+                    <ol>
+                        <li class="tiposV">Grama</li>
+                        <li class="tiposV">Venenoso</li>
+                    </ol>
+                    <img src="https://www.pokemon.com/static-assets/content-assets/cms2/img/pokedex/full/001.png"
+                        alt="Bulbasaur">
+                </div>
+            </li>
+            <li class="pokemonVerde">
                 <span class="numero">#002</span>
                 <span class="nome">Ivysaur</span>
                 <div class="detalhes">
